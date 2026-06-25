@@ -2,6 +2,8 @@
 
 A simple one-page payment website that asks the user for an amount and redirects them to the NGenius hosted payment page. Built like the reference `oneshot-payment` project but integrated with **NGenius (Network International)**.
 
+**Live demo:** https://ngenius-payment.vercel.app
+
 ## What it does
 
 1. User enters an amount in SAR.
